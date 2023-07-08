@@ -1,6 +1,6 @@
 # oibsip_task2
 
-In the project “Guess the Number” :
+In the project “Number Guessing Game" :
 
 1.The system generates a random number from a given range, say 1 to 100.
 
